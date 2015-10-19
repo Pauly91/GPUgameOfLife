@@ -1,0 +1,6 @@
+echo "# GPUgameOfLife" >> README.md
+git init
+git add README.md
+git commit -m "full update"
+git remote add origin https://github.com/Pauly91/GPUgameOfLife.git
+git push -u origin master

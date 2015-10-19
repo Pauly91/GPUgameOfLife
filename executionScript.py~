@@ -1,0 +1,10 @@
+#!/usr/bin/python
+import os
+
+iterations = input("iterations:")
+dataSet = raw_input("data Set:")
+
+os.system("./gpu "+dataSet+" "+str(iterations))
+os.system("./cpu "+dataSet+" "+str(iterations))
+
+os.system("cmp --silent GPUOutput CPUOutput && echo '### SUCCESS: Files Are Identical! ###' || echo '### WARNING: Files Are Different! ###'")

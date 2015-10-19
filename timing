@@ -1,0 +1,53 @@
+GPU vanilla -> Height: 1200 Width: 1200 Iteration: 10 Time: 42.048321
+GPU char access - > Height: 1200 Width: 1200 Iteration: 10 Time: 33.163647
+GPU vanilla -> Height: 1200 Width: 1200 Iteration: 10 Time: 41.973438
+GPU char access - > Height: 1200 Width: 1200 Iteration: 10 Time: 33.490944
+GPU vanilla -> Height: 9600 Width: 9600 Iteration: 15 Time: 3625.668457
+GPU char access with With shared memory- > Height: 9600 Width: 9600 Iteration: 15 Time: 4023.108398
+GPU vanilla -> Height: 9600 Width: 9600 Iteration: 10 Time: 2638.530762
+GPU char access with With shared memory- > Height: 9600 Width: 9600 Iteration: 10 Time: 2750.939941
+GPU vanilla -> Height: 1200 Width: 1200 Iteration: 10 Time: 41.879070
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 43.199936
+GPU vanilla -> Height: 1200 Width: 1200 Iteration: 10 Time: 43.230846
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 43.795105
+GPU vanilla -> Height: 1200 Width: 1200 Iteration: 10 Time: 46.821663
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 43.966911
+GPU vanilla -> Height: 1200 Width: 1200 Iteration: 10 Time: 41.650368
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 44.293022
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 4113.276855
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 44.249058
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 43.971840
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 43.712128
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 73.563263
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 2683.083740
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 44.271008
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 2638.577881
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 95.966370
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 130.696991
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 934.691772
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 75.829987
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 184.565598
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 320.392029
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 492.637939
+GPU char access with With shared memory- > Height: 1200 Width: 1200 Iteration: 10 Time: 51.052353
+GPU vanilla -> Height: 1200 Width: 1200 Iteration: 10 Time: 44.317791
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 34.547394
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 33.232384
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 33.773792
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 32.970688
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 34.726974
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 33.194401
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 33.116417
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 33.117023
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 33.967873
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 32.915073
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 34.775646
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 33.779041
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 2318.222168
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 153.562622
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 347.696716
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 39.921089
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 70.504929
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 110.114685
+GPU vanilla -> Height: 1200 Width: 1200 Iteration: 10 Time: 43.340351
+GPU char access with No shared mem- > Height: 1200 Width: 1200 Iteration: 10 Time: 33.799934

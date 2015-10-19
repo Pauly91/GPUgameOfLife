@@ -1,0 +1,11 @@
+cp gpuGameOfLifeCharAccess.c  gpuGameOfLifeCharAccess.cu
+cp gpuGameOfLife.c  gpuGameOfLife.cu
+cp cpuGameOfLife.c  cpuGameOfLife.cu
+sshpass -p thanks@123 scp gpuGameOfLifeCharAccess.cu administrator@192.168.4.100:/home/administrator/abel/GPUgameOfLife
+sshpass -p thanks@123 scp cpuGameOfLife.cu administrator@192.168.4.100:/home/administrator/abel/GPUgameOfLife
+sshpass -p thanks@123 scp gpuGameOfLife.cu administrator@192.168.4.100:/home/administrator/abel/GPUgameOfLife
+
+
+
+
+
